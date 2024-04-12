@@ -50,12 +50,11 @@ We are good to go
 
 ## **How to access the application:**
 
-Directly run the gui_digit_recognizer file in VSCode(Python 3.9  64 bit)
+Directly run the tradingbot.py
 
-Give the input data to predict the value to the model
 
 ## **Acknowledgements**
-Mnist dataset
+Lumibot library is used
 
 DataFlair
 
