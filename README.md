@@ -43,7 +43,8 @@ A trading bot that monitors the sentiment of real-time news events and executes 
 ### Installations:
 -clone the repository in your local machine
 - pip install
-  --
+  -- `pip install lumibot timedelta alpaca-trade-api==3.1.1`
+  -- `pip install torch torchvision torchaudio transformers` 
 
 We are good to go
 
