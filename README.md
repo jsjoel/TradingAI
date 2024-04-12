@@ -14,27 +14,26 @@ A trading bot that monitors the sentiment of real-time news events and executes 
 
 ## **General Information:**
 
-- This project is a Python-based application for identifying handwritten digits using machine learning techniques.
-- It utilizes a trained model to accurately predict the digit from an input image.
-- CNN based approach
-
+- This project is a Python-based application for executing trades depending upon the real-life events.
+- It utilizes a finbertAI from hugging face fro the sentiment analsysis of the news
+- It utilizes alpaca paper trade api for the paper trade on which we use the algorithm
+  
 ## **Features:**
 
-1. Accurately recognizes handwritten digits (0-9).
-2. Easy-to-use interface for both single and batch digit recognition.
-3. Provides confidence scores for each prediction.
+1. Real-Time News Monitoring: The bot continuously scans news sources and social media platforms for relevant information related to financial markets and specific assets.
 
-## **Dataset:**
- - MNIST dataset
+2.Sentiment Analysis: Utilizes natural language processing techniques to analyze the sentiment of news articles, social media posts, and other textual data.
+
+3.Decision Making: Based on the sentiment analysis, the bot makes trading decisions such as buying, selling, or holding positions in specific assets.
+
 
 ## **Setup:-**
 
 
 ### **Project requirements/dependencies:**
 
-- Python version 3.9.6
+- Python version 3.12.2
 
-- Visual Studio Code version 1.60.2
 
 ### Extentions for Vscode:
 
@@ -42,8 +41,8 @@ A trading bot that monitors the sentiment of real-time news events and executes 
 
 ### Installations:
 -clone the repository in your local machine
-- pip install the keras library
-- run the application using 'python gui_digit_recognizer.py'
+- pip install
+      sadda
 
 We are good to go
 
