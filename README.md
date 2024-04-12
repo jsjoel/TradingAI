@@ -17,6 +17,7 @@ A trading bot that monitors the sentiment of real-time news events and executes 
 - This project is a Python-based application for executing trades depending upon the real-life events.
 - It utilizes a finbertAI from hugging face fro the sentiment analsysis of the news
 - It utilizes alpaca paper trade api for the paper trade on which we use the algorithm
+- the lumibot library is used here.
   
 ## **Features:**
 
@@ -42,7 +43,9 @@ A trading bot that monitors the sentiment of real-time news events and executes 
 ### Installations:
 -clone the repository in your local machine
 - pip install
-      sadda
+  --'''pip install lumibot timedelta alpaca-trade-api==3.1.1'''
+  --'''pip install torch torchvision torchaudio transformers'''
+      
 
 We are good to go
 
