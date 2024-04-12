@@ -1,15 +1,16 @@
 # TradingAI
+A trading bot that monitors the sentiment of real-time news events and executes trades accordingly.
 ## **Description**
 ## **Table of Contents**
-- [General Information](https://github.com/jsjoel/digit_recognition#general-information)
-- [Features](https://github.com/jsjoel/digit_recognition#features)
-- [Dataset](https://github.com/jsjoel/digit_recognition#dataset)
-- [Setup](https://github.com/jsjoel/digit_recognition#setup-)
-- [Project requirements/dependencies](https://github.com/jsjoel/digit_recognition#project-requirementsdependencies)
-- [Extentions for Vscode](https://github.com/jsjoel/digit_recognition#extentions-for-vscode)
-- [Installations](https://github.com/jsjoel/digit_recognition#installations)
-- [Acknowledgements](https://github.com/jsjoel/digit_recognition#acknowledgements)
-- [Contact](https://github.com/jsjoel/digit_recognition#contact)
+- [General Information](https://github.com/jsjoel/TradingAI#general-information)
+- [Features](https://github.com/jsjoel/TradingAI#features)
+- [Dataset](https://github.com/jsjoel/TradingAI#dataset)
+- [Setup](https://github.com/jsjoel/TradingAI#setup-)
+- [Project requirements/dependencies](https://github.com/jsjoel/TradingAI#project-requirementsdependencies)
+- [Extentions for Vscode](https://github.com/jsjoel/TradingAI#extentions-for-vscode)
+- [Installations](https://github.com/jsjoel/TradingAI#installations)
+- [Acknowledgements](https://github.com/jsjoel/TradingAI#acknowledgements)
+- [Contact](https://github.com/jsjoel/TradingAI#contact)
 
 ## **General Information:**
 
